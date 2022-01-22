@@ -62,7 +62,7 @@
 <a href = "https://www.linkedin.com/in/atharv-shinde/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/_atharvshinde_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://github.com/AtharvShinde"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-<a href="atharvdshinde@gmail.com" target="_blank">
+<a href= "mailto:atharvdshinde@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
 <a href = "https://stackoverflow.com/users/15446732/atharv-shinde"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 </p>
