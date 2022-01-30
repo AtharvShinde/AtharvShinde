@@ -1,4 +1,4 @@
-<img src="AtharvShinde/AtharvShinde/code.gif" width="500"/>
+<img src="https://github.com/AtharvShinde/AtharvShinde/blob/master/code.gif?raw=true" width="500"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharv</h1>
 <h3 align="center">I'm a Aspiring Software Developer from India.</h3>
