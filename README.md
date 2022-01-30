@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://assets7.lottiefiles.com/packages/lf20_vnikrcia.json" height="175px"/></a>
+<img align="right" alt="GIF" src="AtharvShinde/89887-coding-the-guy.gif" width="500" height="320"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharv</h1>
 <h3 align="center">I'm a Aspiring Software Developer from India.</h3>
