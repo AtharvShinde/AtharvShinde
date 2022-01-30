@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" src="AtharvShinde/AtharvShinde/89887-coding-the-guy.gif" width="500" height="320"/>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets5.lottiefiles.com/packages/lf20_zw1coqqh.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Atharv</h1>
 <h3 align="center">I'm a Aspiring Software Developer from India.</h3>
