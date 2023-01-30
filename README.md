@@ -1,7 +1,7 @@
 ### ✨About Me  
   
 
-- 🔭 I’m currently working on Open Source Project  
+- 🔭 I’m currently working on Open Source Projects  
   
 
 - 🌱 I’m currently learning Java & Web Development  
